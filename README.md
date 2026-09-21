@@ -7,5 +7,5 @@ Second-year CS student at Western University. Full stack developer.
 **Currently:** Building the production version of Notify, an AI-powered note-sharing app for students, after a successful MVP.
 
 📫 tristanpinzari@gmail.com
-🌐 [Portfolio](https://tristanpinzari.github.io/MyWebsite/)
+🌐 [Website](https://tristanpinzari.github.io/MyWebsite/)
 💼 [LinkedIn](https://www.linkedin.com/in/tristanpinzari)
